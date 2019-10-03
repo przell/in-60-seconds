@@ -8,12 +8,12 @@
 theme : template
 
 theme-background : [ "#FFF" ]
-theme-headline   : [ "Raleway", "#FF4A1B", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
-theme-text       : [ "Ubuntu", "#728089", "none" ]
+theme-headline   : [ "FF Milo Sans", "#FF4A1B", "none" ]
+theme-byline     : [ "FF Milo Sans", "#D3D7D6", "none" ]
+theme-text       : [ "FF Milo Sans", "#728089", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
-theme-controls   : [ "#484848" ]
+theme-controls   : [ "#D3D7D6" ]
 theme-margins    : [ "0", "15px" ]
 
 #
@@ -32,7 +32,7 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
+logo : assets/img/logo_eurac.jpg
 logo-position : low-right
 
 #
@@ -45,7 +45,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Eurac Researc - Trying GitPitch"
 
 #
 # Published Setting
@@ -58,5 +58,5 @@ published : true
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
 title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
+description : "Trying to fix GitPitch to Eurac Research style."
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
